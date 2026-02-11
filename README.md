@@ -1,3 +1,5 @@
+<img width="571" height="455" alt="output 3" src="https://github.com/user-attachments/assets/33dd5f24-f6f7-4b28-a7bd-1dab497a6908" />
+<img width="1141" height="877" alt="CODEALPHA 2" src="https://github.com/user-attachments/assets/8011d81b-f7c0-4c41-8641-6e35f3a83b22" />
 # Code_Alpha-India-unemployment-rate
 
 Data Science Project on India's unemployment rate.
